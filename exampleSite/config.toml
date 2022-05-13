@@ -1,0 +1,71 @@
+baseURL = "fisioterapisti.org"
+disqusShortname = "fisioterapisti"
+languageCode = "it-it"
+paginate = "8"
+summaryLength = "10"
+theme = "northendlab-light"
+title = "Fisioterapisti | Blog"
+[menu]
+footer = []
+[[menu.main]]
+URL = "https://fisioterapisti.org/categories/universit%C3%A0/"
+name = "Universitari"
+weight = 1
+[[menu.main]]
+URL = "https://fisioterapisti.org/categories/libera-professione/"
+name = "Professionisti"
+weight = 2
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+[params]
+author = "Fisioterapisti"
+contact_form_action = "#"
+copyright = "&copy; 2022 Fisioterapisti.org"
+description = "Il Blog dedicato ai Fisioterapisti e a chi vuole diventarlo."
+google_tag_manager = ""
+home = "Home"
+logo = "/images/logo.png"
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+image = "/images/doctors.svg"
+title = "Benvenuti su Fisioterapisti! <br> Il sito dedicato ai fisioterapisti e a chi vuole diventarlo."
+[params.cookies]
+enable = true
+expire_days = 2
+[params.cta]
+description = "Vogliamo aggiornarti, ma le newsletter non ci piacciono: chi usa le mail per lavoro non vuole perdersi quelle più importanti in un mare di spam. Su Telegram invece scegli tu cosa vedere (e puoi anche silenziarlo!)"
+enable = true
+image = "/images/cta.jpg"
+title = "Seguici su Telegram"
+[params.cta.button]
+enable = true
+label = "Unisciti al Canale"
+link = "https://t.me/fisioterapisti_official"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[params.preloader]
+enable = false
+preloader = ""
+[params.search]
+enable = true
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/fisioterapisti/"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/fisio_org/"
+[[params.social]]
+icon = "ti-reddit"
+link = "https://www.reddit.com/r/fisioterapisti/"

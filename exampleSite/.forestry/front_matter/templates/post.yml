@@ -1,0 +1,59 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: author
+  label: author
+- type: text
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: type
+  label: type
+  default: post
+pages:
+- exampleSite/content/3-errori-da-non-fare-marketing-per-fisioterapisti-2022.md
+- exampleSite/content/5-consigli-se-vuoi-studiare-all-universita-fisioterapia-ma-anche-altro.md
+- exampleSite/content/5-cose-da-fare-appena-dopo-la-laurea-in-fisioterapia.md
+- exampleSite/content/bisogna-essere-bravi-in-inglese-per-fare-fisioterapia.md
+- exampleSite/content/bisogna-essere-bravi-in-matematica-per-fare-fisioterapia.md
+- exampleSite/content/bonus-200-euro-decreto-aiuti-maggio-2022-anche-per-fisioterapisti.md
+- exampleSite/content/che-fanno-veramente-i-fisioterapisti.md
+- exampleSite/content/come-funzionano-i-corsi-dopo-la-laurea-gli-ecm-agenas.md
+- exampleSite/content/come-si-paga-l-albo-dei-fisioterapisti.md
+- exampleSite/content/come-trovare-lavoro-dopo-la-laurea.md
+- exampleSite/content/come-trovare-pazienti-se-hai-uno-studio-assicurazioni-sanitarie.md
+- exampleSite/content/concetti-base-di-partita-iva-per-fisioterapisti.md
+- exampleSite/content/concorsi-per-fisioterapista-in-scadenza-a-fine-marzo-2022.md
+- exampleSite/content/concorsi-per-fisioterapista-in-scadenza-a-maggio-2022.md
+- exampleSite/content/concorsi-per-fisioterapista-in-scadenza-ad-aprile-2022.md
+- exampleSite/content/conviene-fare-fisioterapia-ci-sono-troppi-fisioterapisti.md
+- exampleSite/content/cosa-c-e-nel-futuro-della-fisioterapia-in-italia.md
+- exampleSite/content/da-dove-provengono-i-miei-pazienti-internet.md
+- exampleSite/content/da-dove-provengono-i-miei-pazienti.md
+- exampleSite/content/difficile-test-ingresso-fisio.md
+- exampleSite/content/fattura-alla-moglie-carta-del-marito-si-puo-fare.md
+- exampleSite/content/il-piu-grande-problema-di-chi-inizia-come-non-perdere-i-pazienti-a-meta-del-piano-terapeutico.md
+- exampleSite/content/iniziare-tardi-l-universita.md
+- exampleSite/content/lavorare-nel-pubblico-come-fisioterapisti-concetti-di-base.md
+- exampleSite/content/piccolo-aggiornamento-su-sistema-ts.md
+- exampleSite/content/quanto-guadagnano-i-fisioterapisti.md
+- exampleSite/content/serve-la-prescrizione-per-detrarre-la-spesa-del-fisioterapista.md
+- exampleSite/content/si-puo-far-firmare-il-foglio-privacy-in-pdf.md
+- exampleSite/content/si-trova-lavoro-con-la-laurea-in-fisioterapia.md
+- exampleSite/content/sistema-tessera-sanitaria-aggiornamenti-e-nuove-scadenze-per-il-2022.md
+- exampleSite/content/universita-di-fisioterapia-dove.md
+- exampleSite/content/veloce-guida-su-come-aprire-uno-studio-di-fisioterapia-nel-2022.md
